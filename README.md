@@ -24,7 +24,7 @@ I'm a fullstack web developer passionate about creating beautiful, functional us
 #### 🌍 Find me around the web
 
 - Writting about tech at [aurmartin.fr](https://aurmartin.fr)
-- Sharing news on [Linkedin](https://www.linkedin.com/in/aurmartin/)
+- [Linkedin](https://www.linkedin.com/in/aurmartin/)
 
 <!--
 **aurmartin/aurmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
