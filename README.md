@@ -23,7 +23,7 @@ I'm a fullstack web developer passionate about creating beautiful, functional us
 
 #### 🌍 Find me around the web
 
-- Writting about tech at [aurmartin.fr](https://aurmartin.fr)
+- Writting about tech at [aurmartin.fr](https://aurmartin.fr?utm_source=github&utm_medium=links)
 - [Linkedin](https://www.linkedin.com/in/aurmartin/)
 
 <!--
